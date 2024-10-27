@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hawamahal-website/static/css/main.0978f70b.css",
-    "main.js": "/hawamahal-website/static/js/main.c91490bb.js",
+    "main.js": "/hawamahal-website/static/js/main.3182425a.js",
     "static/js/453.38280e71.chunk.js": "/hawamahal-website/static/js/453.38280e71.chunk.js",
     "index.html": "/hawamahal-website/index.html",
     "main.0978f70b.css.map": "/hawamahal-website/static/css/main.0978f70b.css.map",
-    "main.c91490bb.js.map": "/hawamahal-website/static/js/main.c91490bb.js.map",
+    "main.3182425a.js.map": "/hawamahal-website/static/js/main.3182425a.js.map",
     "453.38280e71.chunk.js.map": "/hawamahal-website/static/js/453.38280e71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0978f70b.css",
-    "static/js/main.c91490bb.js"
+    "static/js/main.3182425a.js"
   ]
 }
