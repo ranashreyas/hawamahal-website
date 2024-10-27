@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hawamahal-website/static/css/main.0978f70b.css",
-    "main.js": "/hawamahal-website/static/js/main.3182425a.js",
-    "static/js/453.38280e71.chunk.js": "/hawamahal-website/static/js/453.38280e71.chunk.js",
-    "index.html": "/hawamahal-website/index.html",
-    "main.0978f70b.css.map": "/hawamahal-website/static/css/main.0978f70b.css.map",
-    "main.3182425a.js.map": "/hawamahal-website/static/js/main.3182425a.js.map",
-    "453.38280e71.chunk.js.map": "/hawamahal-website/static/js/453.38280e71.chunk.js.map"
+    "main.css": "/static/css/main.0978f70b.css",
+    "main.js": "/static/js/main.1bf6e991.js",
+    "static/js/453.38280e71.chunk.js": "/static/js/453.38280e71.chunk.js",
+    "index.html": "/index.html",
+    "main.0978f70b.css.map": "/static/css/main.0978f70b.css.map",
+    "main.1bf6e991.js.map": "/static/js/main.1bf6e991.js.map",
+    "453.38280e71.chunk.js.map": "/static/js/453.38280e71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0978f70b.css",
-    "static/js/main.3182425a.js"
+    "static/js/main.1bf6e991.js"
   ]
 }
